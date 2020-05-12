@@ -1,0 +1,7 @@
+## Node Modules
+backend/node_modules/
+frontend/node_modules/
+mobile/node_modules
+
+# Anotações
+backend/anotacoes.txt
